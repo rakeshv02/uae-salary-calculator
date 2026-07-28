@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uae-salary-calculator.tabutility.com/sitemap.xml
